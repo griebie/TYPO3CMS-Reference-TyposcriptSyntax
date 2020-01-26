@@ -9,10 +9,10 @@ Page not found (404)
 
 The page you were redirected to no longer exists.
 
-The contents of the former "TypoScript Syntax and in depth Study" was migrated to:
+The contents of the former **"TypoScript Syntax and in depth Study"** was migrated to:
 
 * :ref:`t3tsref:using-and-setting` in the "TypoScript Template Reference"
-* :ref:`t3coreapi:typoscript-syntax-introduction>` in "TYPO3 Explained"
+* :ref:`t3coreapi:typoscript-syntax-introduction` in "TYPO3 Explained"
 
 __________________________________________________
 

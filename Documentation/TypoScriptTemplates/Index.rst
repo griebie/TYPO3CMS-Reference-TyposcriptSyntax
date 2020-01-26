@@ -6,25 +6,12 @@
 TypoScript Templates
 --------------------
 
-TypoScript templates mainly consist of the Constants and the Setup field.
-Each template can include other (static) templates, which can again
-define values in their own Constants and Setup fields.
+.. attention::
 
-The TypoScript template configuration can be viewed and edited in the
-**WEB > Template** module.
+   This chapter was merged into :ref:`TypoScript Reference <t3tsref:using-and-setting>`
+   since core version 8.7.
 
-The objects, properties and conditions, which are available inside the
-Setup field, can be found in the :ref:`TypoScript Reference <t3tsref:start>`.
+.. rst-class:: horizbuttons-tip-xxl
 
+- :ref:`This chapter has moved <t3tsref:using-and-setting>`
 
-.. toctree::
-   :maxdepth: 5
-   :titlesonly:
-   :glob:
-
-   Usage/Index
-   Entering/Index
-   Constants/Index
-   UsingConstants/Index
-   TheConstantEditor/Index
-   Debugging/Index

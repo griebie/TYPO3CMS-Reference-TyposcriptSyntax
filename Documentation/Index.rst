@@ -114,14 +114,9 @@ TYPO3 CMS Typoscript Syntax
 
 .. attention::
 
-   This document has been merged into :ref:`TYPO3 Core API <typoscript-syntax-start>`
-   since core version 9.
+   This document has been merged into :ref:`TYPO3 Core API <typoscript-syntax-start>`.
 
 .. rst-class:: horizbuttons-tip-xxl
 
 - :ref:`This manual has moved <typoscript-syntax-start>`
 
-*Older versions*
-(`v8.7 </typo3cms/TyposcriptSyntaxReference/8.7/>`__,
-`v7.6 </typo3cms/TyposcriptSyntaxReference/7.6/>`__):
-Please refer to "Related Links" in the lower left corner of the page.

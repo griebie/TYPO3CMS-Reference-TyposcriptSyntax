@@ -11,13 +11,12 @@
 TypoScript Templates
 --------------------
 
+.. attention::
 
-.. toctree::
-   :maxdepth: 5
-   :titlesonly:
-   :glob:
+   This chapter was merged into :ref:`TypoScript Reference <t3tsref:using-and-setting>`
+   since core version 8.7.
 
-   Constants/Index
-   UsingConstants/Index
-   TheConstantEditor/Index
+.. rst-class:: horizbuttons-tip-xxl
+
+- :ref:`This chapter has moved <t3tsref:using-and-setting>`
 

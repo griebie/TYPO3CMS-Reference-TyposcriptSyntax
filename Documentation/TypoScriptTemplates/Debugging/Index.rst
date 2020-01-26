@@ -3,11 +3,11 @@
 .. include:: ../../Includes.txt
 
 
-.. _constants:
-.. _what-are-constants:
+.. _templates-debugging:
+.. _debugging:
 
-What are constants?
-"""""""""""""""""""
+Debugging
+^^^^^^^^^
 
 .. attention::
 

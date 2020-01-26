@@ -3,11 +3,14 @@
 .. include:: ../../Includes.txt
 
 
-.. _constants:
-.. _what-are-constants:
+.. _typoscript-templates-structure:
+.. _typoscript-templates-structure-includes:
+.. _typoscript-templates-structure-analyzer:
 
-What are constants?
-"""""""""""""""""""
+
+Entering and structuring TypoScript templates
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
 
 .. attention::
 
@@ -17,3 +20,6 @@ What are constants?
 .. rst-class:: horizbuttons-tip-xxl
 
 - :ref:`This chapter has moved <t3tsref:using-and-setting>`
+
+
+

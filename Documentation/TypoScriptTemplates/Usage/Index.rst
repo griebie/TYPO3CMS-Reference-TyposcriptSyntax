@@ -3,11 +3,10 @@
 .. include:: ../../Includes.txt
 
 
-.. _constants:
-.. _what-are-constants:
+.. _typoscript-templates-usage:
 
-What are constants?
-"""""""""""""""""""
+Usage
+^^^^^
 
 .. attention::
 
@@ -16,4 +15,4 @@ What are constants?
 
 .. rst-class:: horizbuttons-tip-xxl
 
-- :ref:`This chapter has moved <t3tsref:using-and-setting>`
+- :ref:`This chapter has moved <t3tsref:typoscript-syntax-typoscript-templates-usage>`

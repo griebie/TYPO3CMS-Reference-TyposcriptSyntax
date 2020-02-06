@@ -380,7 +380,7 @@ Another example with a copy within a code block:
            20 < pageObj.10
    }
 
-Here also a copy is made, although inside the :code:`pageObj` object. Note
+Here a copy is made, too, although inside the :code:`pageObj` object. Note
 that the copied object is referred to with its full path
 (:code:`pageObj.10`). When **copying on the same level**, you can just
 refer to the copied object's name, **prepended by a dot**.
@@ -403,7 +403,7 @@ which – in tree view – translates to:
 .. important::
 
    When the original object is changed after copying, the
-   copy does not change! Take a look at the following code:
+   copy will not change! Take a look at the following code:
 
    .. code-block:: typoscript
 
@@ -431,7 +431,7 @@ References: the "=<" sign
 references from one object to another. References mean that multiple
 positions in an object tree can use the same object at another
 position without making an actual copy of the object but by simply
-pointing to the objects full object path.
+pointing to the object's full object path.
 
 The obvious advantage is that a **change of code to the original
 object affects all references**. It avoids the risk mentioned above
